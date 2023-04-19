@@ -1,0 +1,4 @@
+#metadataBlock	name	dataverseAlias	displayName	blockURI												
+	ricardo		ricardo Metadata	https://dataverse.org/schema/ricardo/												
+#datasetField	name	title	description	watermark	 fieldType	displayOrder	displayFormat	advancedSearchField	allowControlledVocabulary	allowmultiples	facetable	displayoncreate	required	parent	metadatablock_id	termURI
+	ricardo	ticardo	The ricardo main title of the Dataset		text	0		TRUE	FALSE	FALSE	FALSE	TRUE	TRUE		ricardo	http://purl.org/dc/terms/ricardo
